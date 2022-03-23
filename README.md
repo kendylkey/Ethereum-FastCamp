@@ -1,4 +1,4 @@
-# Learn. Level Up. Launch your Dapp.
+# Learn. Level Up. Launch your Dapp. :rocket:
 
 The Hyperverse FastCamp is a series of mini boot camps designed to help Web2 developers start building for Web3 (Ethereum, Metis, and Flow) using the Hyperverse.
 
